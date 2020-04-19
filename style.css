@@ -22,7 +22,7 @@ h1 {
   display: grid;
   grid: 150px / auto auto auto;
   padding-left: 150px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .video{
@@ -57,9 +57,8 @@ h1 {
 .footer {
   text-align: center;
   max-width: inherit;
-  margin-top: 350px;
-  margin-bottom: 50px;
-  
+  margin-top: 250px;
+  margin-bottom: 50px;  
   object-position: bottom;
 }
 
