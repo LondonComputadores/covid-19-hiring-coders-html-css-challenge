@@ -39,9 +39,19 @@ h1 {
 }
 
 #form {
-  font-size: 30px;
+  font-size: 50px;
   padding-top: 100px;
   text-align: center;
+}
+
+.links-contato {
+  font-size: 18px;
+  padding-left: 50px;
+}
+
+.links-mais {
+  font-size: 18px;
+  padding-left: 50px;
 }
 
 .footer {
